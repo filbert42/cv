@@ -20,9 +20,9 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> m.d.filbert@gmail.com
-- <i class="fab fa-linkedin"></i> [leshchinsky](www.linkedin.com/in/leshchinsky)
-- <i class="fa fa-github"></i> [github.com/filbert42](github.com/filbert42)
+- <i class="fa fa-envelope"></i> [m.d.filbert@gmail.com](mailto:m.d.filbert@gmail.com)
+- <i class="fab fa-linkedin"></i> [leshchinsky](https://www.linkedin.com/in/leshchinsky)
+- <i class="fa fa-github"></i> [github.com/filbert42](https://github.com/filbert42)
 - <i class="fa fa-phone"></i> 054-686-91-75
 
 
