@@ -46,7 +46,7 @@ Michael Leshchinsky {#title}
 
 ### Machine Learning Engineer | Data Scientist
 
-I'm a Machine Learning Engineer with experience in the Healthcare domain and passion for automation, MLOps, programming languages and best engineering practices
+I'm a Machine Learning Engineer with experience in Healthcare domain and passion for automation, MLOps, programming languages and best engineering practices
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -62,7 +62,7 @@ Ramat-Gan, Israel
 - Developed internal AutoML and MLOps tooling for the Data Science Team
 - Created code for various research and intervention machine learning projects in Healthcare domain
 - Optimized data pipelines and processes, refactored various legacy code 
-- Participated in planning of the unit's long-term technological strategy and developement
+- Participated in planning of the unit's long-term technological strategy and development
 
 ### Data Analyst, Business Intelligence
 
