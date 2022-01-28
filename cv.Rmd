@@ -1,0 +1,121 @@
+---
+title: "Michael Leshchinsky's CV"
+author: Michael Leshchinsky
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Michael Leshchinsky](https://media-exp1.licdn.com/dms/image/C5603AQGznw8r08ARLw/profile-displayphoto-shrink_800_800/0/1583005900663?e=1648684800&v=beta&t=gen_BehxHbGrjXcdQlNsjVZn5BZfKWe2qwKRvFZO6mc){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> m.d.filbert@gmail.com
+- <i class="fab fa-linkedin"></i> [leshchinsky](www.linkedin.com/in/leshchinsky)
+- <i class="fa fa-github"></i> [github.com/filbert42](github.com/filbert42)
+- <i class="fa fa-phone"></i> 054-686-91-75
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, machine learning models, and optimization methods.
+
+- Experienced in ML productization, monitoring and MLOps practices
+
+- Highly skilled in Python, R and SQL
+
+- Also interested in functional languages, databases and distributed systems
+
+
+Main
+================================================================================
+
+Michael Leshchinsky {#title}
+--------------------------------------------------------------------------------
+
+### Machine Learning Engineer | Data Scientist
+
+I'm a Machine Learning Engineer with experience in the Healthcare domain and passion for automation, MLOps, programming languages and best engineering practices
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Machine Learning Engineer | Data Scientist
+
+Clalit Research Institute | Clalit Innovation
+
+Ramat-Gan, Israel
+
+2022 - 2018
+
+- Developed internal AutoML and MLOps tooling for the Data Science Team
+- Created code for various research and intervention machine learning projects in Healthcare domain
+- Optimized data pipelines and processes, refactored various legacy code 
+- Participated in planning of the unit's long-term technological strategy and developement
+
+### Data Analyst, Business Intelligence
+
+KIT Finance Capital
+
+Saint Peterburg, Russia
+
+2017 - 2016
+
+- DevelopedT-SQL queries for reports and analytics 
+- Developing scripting infrastructure in Python for data analysis and ETL
+- Developed and tested KPI for various business processes
+- Designed and performed monthly and quarter reports
+
+### Data Analyst Intern
+
+Nevafilm JSC
+
+Saint Peterburg, Russia
+
+2016 - 2015
+
+- Participated in analytical market reports creation
+- Optimized process of information collecting
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### St Petersburg University
+
+M.S in Economics
+
+Saint Petersburg, Russia
+
+2016
+
+### St Petersburg University
+
+B.S. in Economics
+
+Saint Petersburg, Russia
+
+2014
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Effectiveness of BNT162b2 Vaccine against Delta Variant in Adolescents
+
+N Engl J Med 2021; 385:2101-2103
+
+N/A
+
+2021
+
+Ben Y Reis, Noam Barda, Michael Leshchinsky, Eldad Kepten, Miguel A Hernán, Marc Lipsitch, Noa Dagan, Ran D Balicer
