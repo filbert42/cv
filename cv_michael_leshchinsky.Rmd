@@ -1,0 +1,161 @@
+---
+title: "Michael Leshchinsky's CV"
+author: Michael Leshchinsky
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+#title h1 {
+  text-transform: unset;
+}
+/* Avoid the breaking within a section */
+.blocks {
+  break-inside: avoid;
+}
+
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+}
+:root {
+  --sidebar-width: 12rem; /* Shrink sidebar width  */
+  --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
+  --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
+  --decorator-border: 2px solid #bdd7e7; /* Make timeline a blue as well*/
+}
+```
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [m.d.filbert@gmail.com](mailto:m.d.filbert@gmail.com)
+- <i class="fab fa-linkedin"></i> [leshchinsky](https://www.linkedin.com/in/leshchinsky)
+- <i class="fa fa-github"></i> [github.com/filbert42](https://github.com/filbert42)
+- <i class="fa fa-phone"></i> 054-686-91-75
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- MLOps, ML productization, model and data monitoring 
+
+- Data Science and Machine Learning infrastructure tools development
+
+- Data engineering, data pipelines and data infrastructure design
+
+- Machine learning models, statistical analysis, and optimization methods.
+
+- LLM and RAG pipelines development and evaluation
+
+- DevOps and Linux environments
+
+- Skilled in Python, R and SQL
+
+- Also familiar with Rust, Clojure and Haskell
+
+- Interested modern databases, distributed systems and functional languages
+
+
+Main
+================================================================================
+
+Michael Leshchinsky {#title}
+--------------------------------------------------------------------------------
+
+### Machine Learning \| AI \| MLOps Engineer
+
+Machine Learning Engineer with 5+ years experience in Healthcare domain and passion for AI, automation, MLOps, programming languages and best engineering practices
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Machine Learning Engineer \| MLOps Tech Lead
+
+Clalit Research Institute \| Clalit Innovation
+
+Ramat-Gan, Israel
+
+Today - 2021
+
+-   Internal AutoML, MLOps and AI tooling design and development for the Data Science Team
+-   Designed and implemented data infrastructure for machine learning and analysis tasks
+-   Curated architecture and deployment process of machine learning and AI solutions into production
+-   Participated in the planning of the unit's long-term technological strategy and development
+-   Documented internal systems and provided guidance and mentoring for developers across several teams
+
+### Data Scientist
+
+Clalit Research Institute \| Clalit Innovation
+
+Ramat-Gan, Israel
+
+2021 - 2018
+
+-   Created code for various research projects (Healthcare Economics, COVID-19, etc.)
+-   Developed End-to-End prediction models for real world clinical interventions
+-   Optimized data pipelines and processes, refactored various legacy code
+
+### Data Analyst, Business Intelligence
+
+KIT Finance Capital
+
+Saint Petersburg, Russia
+
+2017 - 2016
+
+- Developed T-SQL queries for reports and analytics 
+- Developing scripting infrastructure in Python for data analysis and ETL
+- Developed and tested KPI for various business processes
+- Designed and performed monthly and quarter reports
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Effectiveness of BNT162b2 Vaccine against Delta Variant in Adolescents
+
+N Engl J Med 2021; 385:2101-2103
+
+N/A
+
+2021
+
+Ben Y Reis, Noam Barda, Michael Leshchinsky, Eldad Kepten, Miguel A Hernán, Marc Lipsitch, Noa Dagan, Ran D Balicer
+
+### Prospective Evaluation of Machine Learning for Public Health Screening: Identifying Unknown Hepatitis C Carriers
+
+NEJM AI 2024;1(2)
+
+N/A
+
+2024
+
+Noa Dagan, Ori Magen, Michael Leshchinsky, Maya Makov-Assif, Marc Lipsitch, Ben Y Reis, Shlomit Yaron, Doron Netzer, Ran D Balicer
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### St Petersburg University
+
+M.S in Economics
+
+Saint Petersburg, Russia
+
+2016
+
+### St Petersburg University
+
+B.S. in Economics
+
+Saint Petersburg, Russia
+
+2014
