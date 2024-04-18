@@ -23,6 +23,7 @@ knit: pagedown::chrome_print
   /* Override default right margin for sidebar*/
   --pagedjs-margin-right: 0.2in;
   --pagedjs-margin-left: 0.2in;
+  --pagedjs-margin-top: 0.6in;
 }
 :root {
   --sidebar-width: 12rem; /* Shrink sidebar width  */
@@ -105,18 +106,6 @@ Ramat-Gan, Israel
 -   Developed End-to-End prediction models for real world clinical interventions
 -   Optimized data pipelines and processes, refactored various legacy code
 
-### Data Analyst, Business Intelligence
-
-KIT Finance Capital
-
-Saint Petersburg, Russia
-
-2017 - 2016
-
-- Developed T-SQL queries for reports and analytics 
-- Developing scripting infrastructure in Python for data analysis and ETL
-- Developed and tested KPI for various business processes
-- Designed and performed monthly and quarter reports
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
