@@ -4,7 +4,6 @@
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/envelope.svg" width="15" height="15"> <a href="mailto:mdfilbert@gmail.com"> mdfilbert@gmail.com</a>
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/linkedin.svg" width="15" height="15"><a href="https://www.linkedin.com/in/leshchinsky/"> https://www.linkedin.com/in/leshchinsky</a>
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/github.svg" width="15" height="15"><a href="https://github.com/filbert42"> https://github.com/filbert42</a>
-
 </span>
 
 # Michael Leshchinsky 
