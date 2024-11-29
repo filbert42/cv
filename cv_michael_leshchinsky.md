@@ -6,7 +6,7 @@
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/github.svg" width="15" height="15"><a href="https://github.com/filbert42"> https://github.com/filbert42</a>
 </span>
 
-<h1> Michael Leshchinsky <p style="font-size:26px">Machine Learning \| AI \| MLOps Engineer</p></h1>
+<h1> Michael Leshchinsky <p style="font-size:26px">Machine Learning | AI | MLOps Engineer</p></h1>
 
 * 6+ years experience in MLOps, Data Engineering, Data Science and Gen AI
 * MLOps & ML automation - drift monitoring, model development, versioning and deployment
