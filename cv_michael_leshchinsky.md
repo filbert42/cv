@@ -1,5 +1,5 @@
 
-<span style="float:right;padding:6px"> 
+<span style="float:right;"> 
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/phone.svg" width="15" height="15"> 054-686-91-75
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/envelope.svg" width="15" height="15"> <a href="mailto:mdfilbert@gmail.com"> mdfilbert@gmail.com</a>
   <br><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/linkedin.svg" width="15" height="15"><a href="https://www.linkedin.com/in/leshchinsky/"> https://www.linkedin.com/in/leshchinsky</a>
@@ -21,7 +21,7 @@
 ## Working Experience
 
 ### Clalit Innovation
-#### *Machine Learning Engineer \| MLOps Tech Lead (October 2021 - present)*
+<h4><i>Machine Learning Engineer | MLOps Tech Lead <p style="float:right">(October 2021 - present)</p></i></h4>
 
 -   Led development of all internal MLOps and Data tooling, enabling several data teams across the company.
 -   Developed an end-to-end AutoML framework for prediction models, reducing development cycle from weeks to hours. 
@@ -33,7 +33,7 @@
 -   Participated in the unit's long-term technological strategy planning, including infrastructure design for Gen AI pipelines.
 -   Documented internal infrastructure and provided guidance and mentoring for developers across several teams.
 
-#### *Data Scientist (December 2018 - October 2021)*
+<h4><i>Data Scientist <p style="float:right">(December 2018 - October 2021)</p></i></h4>
 
 -   Designed and implemented code for various causal inference research projects (Healthcare Economics, COVID-19, etc.).
 -   Developed and deployed multiple prediction models for real-world healthcare interventions.
