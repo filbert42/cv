@@ -21,7 +21,7 @@
 ## Working Experience
 
 ### Clalit Innovation
-#### *Machine Learning Engineer \| MLOps Tech Lead (2021 - present)*
+#### *Machine Learning Engineer \| MLOps Tech Lead (October 2021 - present)*
 
 -   Led development of all internal MLOps and Data tooling, enabling several data teams across the company.
 -   Developed an end-to-end AutoML framework for prediction models, reducing development cycle from weeks to hours. 
@@ -33,7 +33,7 @@
 -   Participated in the unit's long-term technological strategy planning, including infrastructure design for Gen AI pipelines.
 -   Documented internal infrastructure and provided guidance and mentoring for developers across several teams.
 
-#### *Data Scientist (2018-2021)*
+#### *Data Scientist (December 2018 - October 2021)*
 
 -   Designed and implemented code for various causal inference research projects (Healthcare Economics, COVID-19, etc.).
 -   Developed and deployed multiple prediction models for real-world healthcare interventions.
