@@ -12,7 +12,7 @@
 * MLOps & ML automation - drift monitoring, model development, versioning and deployment
 * Data design, pipelines optimization and orchestration
 * Gen AI - RAGs & LLM agents development (LangChain, LangGraph, LlamaIndex)
-* Passion for developer experience, best engineering practices, system design and functional programming
+* Passion for optimization, best engineering practices, developer experience and functional programming
 * **Programming languages:** Python, SQL, R - proficient; Rust, Clojure, Haskell - familliar
 * **Technology:** Git, Docker, Jenkins, MLFlow, Apache Airflow, SQL Server, ELK, DuckDB, Azure AI Search, NoSQL
 * **Platforms:** Linux, Azure Cloud Services, RedHat OpenShift
