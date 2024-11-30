@@ -18,7 +18,7 @@
 * **Platforms:** Linux, Azure Cloud Services, RedHat OpenShift
 
 
-## Working Experience
+<h2> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/laptop-code.svg" width="25" height="25" align="center"> Working Experience </h2>
 
 ### Clalit Innovation
 <h4><i>Machine Learning Engineer | MLOps Tech Lead <p style="float:right">October 2021 - present</p></i></h4>
@@ -40,12 +40,12 @@
 -   Optimized data pipelines and processes, refactored various legacy code.
 
 
-## Education 
+<h2> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/graduation-cap.svg" width="25" height="25" align="center"> Education </h2>
 
 * Master of Economics, St Petersburg State University (2014-2016)
 * Bachelor of Economics, St Petersburg State University (2010-2014)
 
-## Publications
+<h2> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/file-pen.svg" width="25" height="25" align="center"> Publications </h2>
 
 * **Development and Validation of a Colorectal Cancer Prediction Model: A Nationwide Cohort-Based Study**<br>
 Dig Dis Sci 69, 2611–2620 (2024)<br>
