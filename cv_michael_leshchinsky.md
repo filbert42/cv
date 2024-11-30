@@ -27,7 +27,7 @@
 -   Developed an end-to-end AutoML framework for prediction models, reducing development cycle from weeks to hours. 
 -   Designed and implemented a Feature Store, achieving x10-x50 speed-up for data science and data analysis tasks.
 -   Implemented drift monitoring system to track models reliability in production environments.
--   Led data pipelines migration from Jenkins to Airflow, imporving data orchestration and observability .
+-   Led data pipelines migration from Jenkins to Airflow, imporving data orchestration and observability.
 -   Developed data curation and monitoring system, that significantly reduced number of data-related bugs in production.
 -   Curated architecture and deployment process of ML and AI solutions into production environments.
 -   Participated in the unit's long-term technological strategy planning, including infrastructure design for Gen AI pipelines.
