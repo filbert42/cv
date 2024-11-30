@@ -23,21 +23,21 @@
 ### Clalit Innovation
 #### *Machine Learning Engineer \| MLOps Tech Lead (2021 - present)*
 
--   Led development of all internal MLOps and Data tooling, providing service to several data teams.
+-   Led development of all internal MLOps and Data tooling, enabling several data teams across the company.
 -   Developed an end-to-end AutoML framework for prediction models, reducing development cycle from weeks to hours. 
 -   Designed and implemented a Feature Store, achieving x10-x50 speed-up for data science and data analysis tasks.
--   Implemented drift monitoring system to track models reliability in production environments.
+-   Implemented a drift monitoring system to track models reliability in production environments.
 -   Led data pipelines migration from Jenkins to Airflow, imporving data orchestration and observability.
--   Developed data curation and monitoring system, that significantly reduced number of data-related bugs in production.
--   Curated architecture and deployment process of ML and AI solutions into production environments.
+-   Developed data curation and monitoring system, significantly reducing number of data-related bugs in production.
+-   Curated architecture and deployment process of different ML and AI solutions into production environments.
 -   Participated in the unit's long-term technological strategy planning, including infrastructure design for Gen AI pipelines.
 -   Documented internal infrastructure and provided guidance and mentoring for developers across several teams.
 
 #### *Data Scientist (2018-2021)*
 
--   Designed and implemented code for various causal inference research projects (Healthcare Economics, COVID-19, etc.)
--   Developed and deployed multiple prediction models for real-world healthcare interventions
--   Optimized data pipelines and processes, refactored various legacy code
+-   Designed and implemented code for various causal inference research projects (Healthcare Economics, COVID-19, etc.).
+-   Developed and deployed multiple prediction models for real-world healthcare interventions.
+-   Optimized data pipelines and processes, refactored various legacy code.
 
 
 ## Education 
