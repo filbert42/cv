@@ -47,12 +47,15 @@
 
 ## Publications
 
-* **Effectiveness of BNT162b2 Vaccine against Delta Variant in Adolescents**<br>
-N Engl J Med 2021; 385:2101-2103<br>
-*Ben Y Reis, Noam Barda, Michael Leshchinsky, Eldad Kepten, Miguel A Hernán, Marc Lipsitch, Noa Dagan, Ran D Balicer.*
+* **Development and Validation of a Colorectal Cancer Prediction Model: A Nationwide Cohort-Based Study**<br>
+Dig Dis Sci 69, 2611–2620 (2024)<br>
+*Isakov, O., Riesel, D., Leshchinsky, M. et al.*
 * **Prospective Evaluation of Machine Learning for Public Health Screening: Identifying Unknown Hepatitis C Carriers**<br>
 NEJM AI 2024;1(2)<br>
 *Noa Dagan, Ori Magen, Michael Leshchinsky, Maya Makov-Assif, Marc Lipsitch, Ben Y Reis, Shlomit Yaron, Doron Netzer, Ran D Balicer*
+* **Effectiveness of BNT162b2 Vaccine against Delta Variant in Adolescents**<br>
+N Engl J Med 2021; 385:2101-2103<br>
+*Ben Y Reis, Noam Barda, Michael Leshchinsky, Eldad Kepten, Miguel A Hernán, Marc Lipsitch, Noa Dagan, Ran D Balicer.*
 * **Evidence for increased breakthrough rates of SARS-CoV-2 variants of concern in BNT162b2-mRNA-vaccinated individuals**<br>
 Nat Med 27, 1379–1384 (2021)<br>
 *Kustin, T., Harel, N., Finkel, U. et al.*
