@@ -9,7 +9,7 @@
 <h1> Michael Leshchinsky <br><p style="font-size:24px">Machine Learning | AI | MLOps Engineer</p></h1>
 
 * 6+ years experience in MLOps, Data Engineering, Data Science and Gen AI
-* MLOps & ML automation - drift monitoring, model development, versioning and deployment
+* MLOps & ML automation - drift monitoring, model development, versioning and deployment 
 * Data design, pipelines optimization and orchestration
 * Gen AI - RAGs & LLM agents development (LangChain, LangGraph, LlamaIndex)
 * Passion for optimization, best engineering practices, developer experience and functional programming
